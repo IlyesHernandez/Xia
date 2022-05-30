@@ -22,7 +22,7 @@ export default {
         },
         {
           en: "creative",
-          fr: "creatif"
+          fr: "créatif"
         },
         {
           en: "work",
